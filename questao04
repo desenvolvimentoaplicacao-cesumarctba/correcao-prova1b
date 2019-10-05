@@ -1,0 +1,3 @@
+O PHP é uma linguagem interpretada e necessita de um servidor com seu interpretador ativo.
+Caso contrario ela será aberta como arquivo de texto exibindo todo seus comando e não o interpretando.
+
