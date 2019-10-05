@@ -1,0 +1,6 @@
+Programação procedural é um paradigma que funciona com comandos e é executado passo a passo pelo computado
+neste cenário não existe abstração do mundo real e o maximo de reuso é em funções ou estruturas. 
+Cenários: programação de baixo nivel, como programar um arduino. 
+Programação POO - Neste paradigma, tudo que é construido pode representar um objeto, que geralmente tem atributos
+e métodos que represetam ações do mundo real, os objetos por padrão se comunicam entre si no ciclo de vida do software. 
+Cenário: Aplicações comerciais que são escritas abstraindo conceitos do mundo real para dentro do software.
